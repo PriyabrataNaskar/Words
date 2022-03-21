@@ -2,6 +2,7 @@
 
 Words, an single activity architecture based android app that uses Navigation Components
 
+![App Logi](https://github.com/PriyabrataNaskar/Words/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 # Introduction
 Words app allows you to select a letter and use Intents to navigate to an Activity that
