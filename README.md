@@ -1,6 +1,6 @@
 # Words App
 
-This folder contains the source code for the Words app codelab.
+Words, an single activity architecture based android app that uses Navigation Components
 
 
 # Introduction
